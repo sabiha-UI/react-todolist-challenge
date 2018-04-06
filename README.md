@@ -1,5 +1,5 @@
 # Todo List React App
-In this repository you will find our Peak Activity "Todo List Challenge". This is a application developed in React that hasn't been completed, and we would like you to finish it. All the dependencies you will need to finish this application have been already installed. The application uses the [create-react-app](https://github.com/facebook/create-react-app) boilerplate.
+In this repository you will find our Peak Activity "Todo List Challenge". This is a application developed in React that hasn't been completed, and we would like you to finish it. All the dependencies you will need to finish this application are already installed. The application uses the [create-react-app](https://github.com/facebook/create-react-app) boilerplate.
 
 ### Requirements
 1. You must use Redux and Redux Thunk (or Redux Saga).
